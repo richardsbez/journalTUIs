@@ -1,0 +1,55 @@
+{
+  "cadernos": [
+    "Hoje",
+    "Faculdade",
+    "Trabalho",
+    "Projetos"
+  ],
+  "caderno_ativo": "Hoje",
+  "tarefas": [
+    {
+      "id": 1,
+      "texto": "Estudar cálculo",
+      "status": "•",
+      "caderno": "Faculdade",
+      "prioridade": 2
+    },
+    {
+      "id": 2,
+      "texto": "Beber água",
+      "status": "X",
+      "caderno": "Hoje",
+      "prioridade": 1
+    },
+    {
+      "id": 3,
+      "texto": "Revisar código",
+      "status": "X",
+      "caderno": "Trabalho",
+      "prioridade": 3
+    },
+    {
+      "id": 4,
+      "texto": "terminar o site da empresa",
+      "status": "X",
+      "caderno": "Hoje",
+      "prioridade": 1
+    }
+  ],
+  "habitos": [
+    {
+      "dia": "28/01",
+      "humor": 4,
+      "energia": 3
+    },
+    {
+      "dia": "28/01",
+      "humor": 1,
+      "energia": 1
+    }
+  ],
+  "notas": {
+    "Trabalho": "oi "
+  },
+  "proximo_id": 5
+}

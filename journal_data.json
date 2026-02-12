@@ -1,0 +1,190 @@
+{
+  "cadernos": [
+    "Hoje",
+    "Faculdade",
+    "Trabalho",
+    "Projetos",
+    "Livros Do Mes",
+    "Ayrcore"
+  ],
+  "caderno_ativo": "Trabalho",
+  "tarefas": [
+    {
+      "id": 6,
+      "texto": "Estudar um pouco de cálculo",
+      "status": "•",
+      "caderno": "Faculdade",
+      "prioridade": 2,
+      "cadernos": [
+        "Faculdade"
+      ]
+    },
+    {
+      "id": 8,
+      "texto": "Melhoar meu JournoTerminal",
+      "status": "•",
+      "caderno": "Projetos",
+      "cadernos": [
+        "Projetos"
+      ],
+      "prioridade": 3
+    },
+    {
+      "id": 14,
+      "texto": "pesquisar sobre 'is going to be'",
+      "status": "•",
+      "caderno": "Hoje",
+      "cadernos": [
+        "Hoje"
+      ],
+      "prioridade": 3
+    },
+    {
+      "id": 15,
+      "texto": "pesquisar sobre \"going to go out for\"",
+      "status": "•",
+      "caderno": "Hoje",
+      "cadernos": [
+        "Hoje"
+      ],
+      "prioridade": 3
+    },
+    {
+      "id": 16,
+      "texto": "pesquisar ¨Do it the way I told you to.¨",
+      "status": "•",
+      "caderno": "Hoje",
+      "cadernos": [
+        "Hoje"
+      ],
+      "prioridade": 1
+    }
+  ],
+  "habitos": [
+    {
+      "dia": "28/01",
+      "humor": 4,
+      "energia": 3
+    },
+    {
+      "dia": "28/01",
+      "humor": 1,
+      "energia": 1
+    },
+    {
+      "dia": "28/01",
+      "humor": 4,
+      "energia": 0
+    }
+  ],
+  "notas": {
+    "Trabalho": "oi ",
+    "Hoje": "Mes 1 a 4 = English"
+  },
+  "proximo_id": 17,
+  "metas": {
+    "semanais": [],
+    "mensais": [
+      {
+        "texto": "q",
+        "progresso": 0
+      },
+      {
+        "texto": "English",
+        "progresso": 0
+      },
+      {
+        "texto": "Englih",
+        "progresso": 10
+      },
+      {
+        "texto": "ssss",
+        "progresso": 0
+      },
+      {
+        "texto": "wwww",
+        "progresso": 0
+      },
+      {
+        "texto": "Janeiro - o",
+        "progresso": 0
+      },
+      {
+        "texto": "Fevereiro - English",
+        "progresso": 0
+      },
+      {
+        "texto": "Fevereiro - Terminar 2 livros",
+        "progresso": 0
+      },
+      {
+        "texto": "Correr todo fim de semana",
+        "progresso": 0
+      },
+      {
+        "texto": "Fevereiro - Correr todo fim de semana",
+        "progresso": 0
+      },
+      {
+        "texto": "Fevereiro - Fazer 2 publicação no insta da empresa",
+        "progresso": 0
+      },
+      {
+        "texto": "Fevereiro - ler 40min todo dia",
+        "progresso": 0
+      },
+      {
+        "texto": "Fevereiro - Fazer flexão todo dia",
+        "progresso": 0
+      }
+    ],
+    "anuais": [
+      {
+        "texto": "Ler 24 livros",
+        "progresso": 0
+      },
+      {
+        "texto": "Aprender 3 idiomas",
+        "progresso": 0
+      },
+      {
+        "texto": "adquiri mais cultura",
+        "progresso": 10
+      },
+      {
+        "texto": "Ter uma renda media de 3k mês",
+        "progresso": 0
+      },
+      {
+        "texto": "Fazer outra facul em uma Universidade mais respeita",
+        "progresso": 0
+      },
+      {
+        "texto": "Ser melhor na Matemática",
+        "progresso": 0
+      },
+      {
+        "texto": "Fazer alguma atividade fisica",
+        "progresso": 0
+      }
+    ]
+  },
+  "calendario": {
+    "2026-01": {
+      "28": "completo"
+    }
+  },
+  "atividades_diarias": {
+    "2026-02-08": {
+      "atividades": {
+        "qq": 1,
+        "Exercício físico": 1
+      },
+      "nivel": 1
+    },
+    "2026-02-12": {
+      "atividades": {},
+      "nivel": 0
+    }
+  }
+}
