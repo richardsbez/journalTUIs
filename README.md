@@ -23,7 +23,7 @@
 
 <!-- Screenshots -->
 <div style="margin: 60px 0; text-align: center;">
-  <h2 style="margin-bottom: 40px;">📸 Screenshots</h2>
+  <h2 style="margin-bottom: 50px;"> Screenshots</h2>
   <!-- Top row -->
   <div style="
       display: flex;
