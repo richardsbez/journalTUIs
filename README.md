@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <h1>📓 todoTerminal</h1>
+  <h1>📓 toDoTerminal</h1>
 
   <p>
     <strong>A powerful terminal-based task, goal, and habit manager — lightweight, fast, and dependency-free.</strong><br/>
@@ -22,22 +22,22 @@
 
   <hr/>
 
-  <h2>✨ Features</h2>
+  <h2> Features</h2>
 
   <ul>
-    <li><strong>📚 Notebooks</strong> — Organize tasks into separate contexts (Today, College, Work, Personal…)</li>
-    <li><strong>✅ Tasks</strong> — Create, edit, complete, reopen, delete and prioritize with color-coded indicators</li>
-    <li><strong>🎯 Goals</strong> — Track weekly, monthly and yearly progress with visual progress bars</li>
-    <li><strong>📆 Calendar</strong> — Mark days as complete, partial or pending</li>
-    <li><strong>🔥 Heatmap</strong> — Visualize habit consistency for the current week</li>
-    <li><strong>📝 Quick Notes</strong> — Free-text notes per notebook</li>
-    <li><strong>📊 Statistics</strong> — Productivity overview by notebook and category</li>
-    <li><strong>💾 Auto-Save</strong> — Data persisted locally in JSON (no database required)</li>
+    <li><strong> Notebooks</strong> — Organize tasks into separate contexts (Today, College, Work, Personal…)</li>
+    <li><strong> Tasks</strong> — Create, edit, complete, reopen, delete and prioritize with color-coded indicators</li>
+    <li><strong> Goals</strong> — Track weekly, monthly and yearly progress with visual progress bars</li>
+    <li><strong> Calendar</strong> — Mark days as complete, partial or pending</li>
+    <li><strong> Heatmap</strong> — Visualize habit consistency for the current week</li>
+    <li><strong> Quick Notes</strong> — Free-text notes per notebook</li>
+    <li><strong> Statistics</strong> — Productivity overview by notebook and category</li>
+    <li><strong> Auto-Save</strong> — Data persisted locally in JSON (no database required)</li>
   </ul>
 
   <hr/>
 
-  <h2>🚀 Installation</h2>
+  <h2> Installation</h2>
 
   <pre><code>
 # Clone the repository
@@ -140,7 +140,7 @@ todoTerminal/
 
   <hr/>
 
-  <h2>🛠️ Development</h2>
+  <h2> Development</h2>
 
   <h3>VS Code Setup</h3>
 
