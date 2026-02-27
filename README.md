@@ -32,19 +32,19 @@
       max-width: 1200px;
       margin: 0 auto;
   ">
-
+e
     <img 
       src="https://github.com/user-attachments/assets/0a930644-c92b-406f-a01f-c15f781e4110"
       alt="Dashboard View"
       style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
     />
-
+e
     <img 
       src="https://github.com/user-attachments/assets/96619081-3586-4a9e-9a3c-b13eb0535281"
       alt="Goals View"
       style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
     />
-
+ e
     <img 
       src="https://github.com/user-attachments/assets/f7b8270a-efaa-468c-929b-878e58e1dde7"
       alt="Statistics View"
