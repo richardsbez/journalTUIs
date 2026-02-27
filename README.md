@@ -20,6 +20,12 @@
     <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square" />
   </p>
 
+  <img width="736" height="535" alt="image" src="https://github.com/user-attachments/assets/0a930644-c92b-406f-a01f-c15f781e4110" />
+  <img width="781" height="585" alt="image" src="https://github.com/user-attachments/assets/96619081-3586-4a9e-9a3c-b13eb0535281" />
+<img width="785" height="739" alt="image" src="https://github.com/user-attachments/assets/f7b8270a-efaa-468c-929b-878e58e1dde7" />
+
+
+
   <hr/>
 
   <h2> Features</h2>
