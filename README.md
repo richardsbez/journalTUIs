@@ -20,9 +20,39 @@
     <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square" />
   </p>
 
-  <img width="736" height="535" alt="image" src="https://github.com/user-attachments/assets/0a930644-c92b-406f-a01f-c15f781e4110" />
-  <img width="781" height="585" alt="image" src="https://github.com/user-attachments/assets/96619081-3586-4a9e-9a3c-b13eb0535281" />
-<img width="785" height="739" alt="image" src="https://github.com/user-attachments/assets/f7b8270a-efaa-468c-929b-878e58e1dde7" />
+<!-- Screenshots Section -->
+<div style="margin: 40px 0; text-align: center;">
+
+  <h2 style="margin-bottom: 25px;"> Screenshots</h2>
+
+  <div style="
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+  ">
+
+    <img 
+      src="https://github.com/user-attachments/assets/0a930644-c92b-406f-a01f-c15f781e4110"
+      alt="Dashboard View"
+      style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
+    />
+
+    <img 
+      src="https://github.com/user-attachments/assets/96619081-3586-4a9e-9a3c-b13eb0535281"
+      alt="Goals View"
+      style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
+    />
+
+    <img 
+      src="https://github.com/user-attachments/assets/f7b8270a-efaa-468c-929b-878e58e1dde7"
+      alt="Statistics View"
+      style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
+    />
+
+  </div>
+</div>
 
 
 
