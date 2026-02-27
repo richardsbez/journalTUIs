@@ -22,35 +22,51 @@
 
 
 <!-- Screenshots Pyramid Layout -->
-<div style="margin: 50px 0; text-align: center;">
 
-  <h2 style="margin-bottom: 30px;">📸 Screenshots</h2>
-
-  <!-- Top Row (2 images) -->
+<div style="margin: 60px 0; text-align: center;">
+  <h2 style="margin-bottom: 40px;">📸 Screenshots</h2>
+  <!-- Top row -->
   <div style="
       display: flex;
       justify-content: center;
-      gap: 20px;
-      flex-wrap: wrap;
-      margin-bottom: 20px;
+      gap: 30px;
   ">
     <img 
       src="https://github.com/user-attachments/assets/0a930644-c92b-406f-a01f-c15f781e4110"
       alt="Dashboard View"
-      style="width: 45%; min-width: 280px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
+      style="
+        width: 420px;
+        max-width: 45%;
+        border-radius: 14px;
+        box-shadow: 0 12px 28px rgba(0,0,0,0.25);
+      "
     />
     <img 
       src="https://github.com/user-attachments/assets/96619081-3586-4a9e-9a3c-b13eb0535281"
       alt="Goals View"
-      style="width: 45%; min-width: 280px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" 
+      style="
+        width: 420px;
+        max-width: 45%;
+        border-radius: 14px;
+        box-shadow: 0 12px 28px rgba(0,0,0,0.25);
+      "
     />
   </div>
-  <!-- Bottom Row (1 centered image) -->
-  <div style="display: flex; justify-content: center;">
+  <!-- Bottom row -->
+  <div style="
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+  ">
     <img 
       src="https://github.com/user-attachments/assets/f7b8270a-efaa-468c-929b-878e58e1dde7"
       alt="Statistics View"
-      style="width: 50%; min-width: 300px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.18);" 
+      style="
+        width: 520px;
+        max-width: 60%;
+        border-radius: 16px;
+        box-shadow: 0 18px 40px rgba(0,0,0,0.35);
+      "
     />
   </div>
 </div>
