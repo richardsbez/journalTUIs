@@ -123,7 +123,7 @@ todoTerminal/
 
   <hr/>
 
-  <h2>💾 Data Persistence</h2>
+  <h2> Data Persistence</h2>
 
   <p>
     All data is automatically saved to <code>journal_data.json</code> in the execution directory.
