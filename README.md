@@ -21,8 +21,7 @@
   </p>
 
 
-<!-- Screenshots Pyramid Layout -->
-
+<!-- Screenshots -->
 <div style="margin: 60px 0; text-align: center;">
   <h2 style="margin-bottom: 40px;">📸 Screenshots</h2>
   <!-- Top row -->
@@ -41,37 +40,6 @@
         box-shadow: 0 12px 28px rgba(0,0,0,0.25);
       "
     />
-    <img 
-      src="https://github.com/user-attachments/assets/96619081-3586-4a9e-9a3c-b13eb0535281"
-      alt="Goals View"
-      style="
-        width: 420px;
-        max-width: 45%;
-        border-radius: 14px;
-        box-shadow: 0 12px 28px rgba(0,0,0,0.25);
-      "
-    />
-  </div>
-  <!-- Bottom row -->
-  <div style="
-      display: flex;
-      justify-content: center;
-      margin-top: 40px;
-  ">
-    <img 
-      src="https://github.com/user-attachments/assets/f7b8270a-efaa-468c-929b-878e58e1dde7"
-      alt="Statistics View"
-      style="
-        width: 520px;
-        max-width: 60%;
-        border-radius: 16px;
-        box-shadow: 0 18px 40px rgba(0,0,0,0.35);
-      "
-    />
-  </div>
-</div>
-
-
   <hr/>
 
   <h2> Features</h2>
