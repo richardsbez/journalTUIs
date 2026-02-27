@@ -1,65 +1,4 @@
 {
-  "cadernos": [
-    "Hoje",
-    "Faculdade",
-    "Trabalho",
-    "Projetos",
-    "Livros Do Mes",
-    "Ayrcore"
-  ],
-  "caderno_ativo": "Trabalho",
-  "tarefas": [
-    {
-      "id": 6,
-      "texto": "Estudar um pouco de cálculo",
-      "status": "•",
-      "caderno": "Faculdade",
-      "prioridade": 2,
-      "cadernos": [
-        "Faculdade"
-      ]
-    },
-    {
-      "id": 8,
-      "texto": "Melhoar meu JournoTerminal",
-      "status": "•",
-      "caderno": "Projetos",
-      "cadernos": [
-        "Projetos"
-      ],
-      "prioridade": 3
-    },
-    {
-      "id": 14,
-      "texto": "pesquisar sobre 'is going to be'",
-      "status": "•",
-      "caderno": "Hoje",
-      "cadernos": [
-        "Hoje"
-      ],
-      "prioridade": 3
-    },
-    {
-      "id": 15,
-      "texto": "pesquisar sobre \"going to go out for\"",
-      "status": "•",
-      "caderno": "Hoje",
-      "cadernos": [
-        "Hoje"
-      ],
-      "prioridade": 3
-    },
-    {
-      "id": 16,
-      "texto": "pesquisar ¨Do it the way I told you to.¨",
-      "status": "•",
-      "caderno": "Hoje",
-      "cadernos": [
-        "Hoje"
-      ],
-      "prioridade": 1
-    }
-  ],
   "habitos": [
     {
       "dia": "28/01",
@@ -77,104 +16,86 @@
       "energia": 0
     }
   ],
-  "notas": {
-    "Trabalho": "oi ",
-    "Hoje": "Mes 1 a 4 = English"
-  },
-  "proximo_id": 17,
-  "metas": {
-    "semanais": [],
-    "mensais": [
+  "notebooks": [
+    "Study",
+    "Today",
+    "Work",
+    "Books",
+    "Projects",
+    "Business",
+    "Do When Free"
+  ],
+  "active_notebook": "Study",
+  "tasks": [],
+  "goals": {
+    "weekly": [],
+    "monthly": [
       {
-        "texto": "q",
-        "progresso": 0
+        "text": "q",
+        "progress": 0
       },
       {
-        "texto": "English",
-        "progresso": 0
+        "text": "Latim",
+        "progress": 0
       },
       {
-        "texto": "Englih",
-        "progresso": 10
+        "text": "Latim",
+        "progress": 10
       },
       {
-        "texto": "ssss",
-        "progresso": 0
+        "text": "ssss",
+        "progress": 0
       },
       {
-        "texto": "wwww",
-        "progresso": 0
+        "text": "wwww",
+        "progress": 0
       },
       {
-        "texto": "Janeiro - o",
-        "progresso": 0
+        "text": "January - o",
+        "progress": 0
       },
       {
-        "texto": "Fevereiro - English",
-        "progresso": 0
+        "text": "February - Latim",
+        "progress": 0
       },
       {
-        "texto": "Fevereiro - Terminar 2 livros",
-        "progresso": 0
+        "text": "February - Finish 3 books",
+        "progress": 0
       },
       {
-        "texto": "Correr todo fim de semana",
-        "progresso": 0
+        "text": "Running every weekend",
+        "progress": 0
       },
       {
-        "texto": "Fevereiro - Correr todo fim de semana",
-        "progresso": 0
+        "text": "February - Running every weekend",
+        "progress": 0
       },
       {
-        "texto": "Fevereiro - Fazer 2 publicação no insta da empresa",
-        "progresso": 0
+        "text": "February - Make 2 posts on the company's Instagram.",
+        "progress": 0
       },
       {
-        "texto": "Fevereiro - ler 40min todo dia",
-        "progresso": 0
+        "text": "February - read for 40 minutes every day",
+        "progress": 0
       },
       {
-        "texto": "Fevereiro - Fazer flexão todo dia",
-        "progresso": 0
+        "text": "February - Do push-ups every day",
+        "progress": 0
       }
     ],
-    "anuais": [
-      {
-        "texto": "Ler 24 livros",
-        "progresso": 0
-      },
-      {
-        "texto": "Aprender 3 idiomas",
-        "progresso": 0
-      },
-      {
-        "texto": "adquiri mais cultura",
-        "progresso": 10
-      },
-      {
-        "texto": "Ter uma renda media de 3k mês",
-        "progresso": 0
-      },
-      {
-        "texto": "Fazer outra facul em uma Universidade mais respeita",
-        "progresso": 0
-      },
-      {
-        "texto": "Ser melhor na Matemática",
-        "progresso": 0
-      },
-      {
-        "texto": "Fazer alguma atividade fisica",
-        "progresso": 0
-      }
-    ]
+    "yearly": []
   },
-  "calendario": {
+  "notes": {
+    "Trabalho": "hh",
+    "Hoje": "Latim",
+    "Today": ""
+  },
+  "calendar": {
     "2026-01": {
-      "28": "completo"
+      "28": "complete"
     }
   },
-  "atividades_diarias": {
+  "daily_activities": {
     "2026-02-08": {
       "atividades": {
         "qq": 1,
@@ -185,6 +106,13 @@
     "2026-02-12": {
       "atividades": {},
       "nivel": 0
+    },
+    "2026-02-27": {
+      "activities": {
+        "Exercise": 1
+      },
+      "level": 1
     }
-  }
+  },
+  "next_id": 18
 }
